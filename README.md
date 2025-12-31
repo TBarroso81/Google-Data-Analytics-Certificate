@@ -38,12 +38,31 @@ Este é o guia prático para qualquer projeto de análise:
 5. **Compartilhar (Share):** Criar visualizações e comunicar as descobertas de forma clara.
 6. **Agir (Act):** Colocar as conclusões em prática para resolver o problema de negócio.
 
+---
+
 #### 📊 Tipos de Análise de Dados
 Entendi que a análise pode ser dividida em quatro níveis de complexidade e valor:
 * **Análise Descritiva:** O que aconteceu? (Ex: Relatório de vendas do mês passado).
 * **Análise Diagnóstica:** Por que aconteceu? (Ex: Por que as vendas caíram na região X?).
 * **Análise Preditiva:** O que pode acontecer no futuro? (Ex: Previsão de estoque para o Natal).
 * **Análise Prescritiva:** Como podemos fazer acontecer? (Ex: Sugestão de rota otimizada para entrega).
+
+## 📜 Evolução e Modelos de Análise de Dados
+
+### Raízes Históricas
+A análise de dados não é uma prática nova. Suas raízes estão na estatística e remontam ao **Antigo Egito**, onde os egípcios já organizavam e documentavam cálculos para gestão. Eles são considerados pioneiros na documentação, influenciando diretamente como estruturamos a análise moderna hoje.
+
+### Modelos de Análise do Mercado
+Embora o processo de **Perguntar, Preparar, Processar, Analisar, Compartilhar e Agir** seja o padrão do Google, outras organizações utilizam modelos variados que compartilham princípios fundamentais:
+
+* **Modelo EMC:** É um modelo **cíclico** que enfatiza a conexão constante entre as fases. Ele reforça que as descobertas de uma etapa podem exigir o retorno a uma fase anterior.
+* **Modelo SAS:** Diferencia-se por incluir uma etapa de **avaliação rigorosa** após a implementação. Isso permite que a equipe revisite a fase inicial de perguntas para ajustar a estratégia conforme os resultados reais.
+* **Modelo Baseado em Projetos:** Uma abordagem simplificada em **5 etapas**, focada intensamente na identificação rápida do problema e na visualização de dados para tomada de decisão imediata.
+
+### Conclusão do Módulo
+Independentemente do modelo escolhido (Google, SAS ou EMC), o princípio central permanece: a **preparação rigorosa dos dados** deve sempre preceder a análise para garantir a integridade dos insights gerados.
+
+---
 
 #### 🌐 Outros Conceitos Importantes:
 * **Ecossistema de Dados:** O grupo de elementos (ferramentas, pessoas, processos) que interagem com os dados.
